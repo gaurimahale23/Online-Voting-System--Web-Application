@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color:D5E5D5;
+}
+#headerSection{
+    font-family:cursive;
+}
+#headerSection{
+    padding: 10px;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+#loginbutton{
+    padding: 10px;
+    font-size:15px;
+    border-radius: 5px;
+    background-color: blue;
+    color:white;
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+#back,
+#log {
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
